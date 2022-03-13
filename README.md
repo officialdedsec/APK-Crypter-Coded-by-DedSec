@@ -22,10 +22,11 @@ Before using Make sure:
 2) Open cmd and write java.exe -version. If java installed it will tell you the version else java not installed.
 
 Install Java JDK here:
-Click Here
+https://www.oracle.com/java/technologies/downloads/
 
 Install Java JRE here:
-Click Here
+https://www.oracle.com/java/technologies/downloads/#java8
+
 
 Download LINK
 https://www.dedseec.com/apk-crypter-coded-by-dedsec/
