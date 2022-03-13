@@ -1,4 +1,4 @@
-# APK-Crypter-Coded-by-DedSec
+# APK Crypter Coded by DedSec
 
 Features:
 1) Compitable with all popular Android RATs
